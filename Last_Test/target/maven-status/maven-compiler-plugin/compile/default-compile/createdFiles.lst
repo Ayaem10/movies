@@ -1,0 +1,3 @@
+org\acme\ExampleResource.class
+org\acme\movieRepository.class
+META-INF\panache-archive.marker
